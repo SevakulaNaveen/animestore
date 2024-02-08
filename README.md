@@ -12,6 +12,7 @@ AnimeHavenHub is a platform for anime enthusiasts to explore trending animes, di
 Before you begin, ensure you have the following tools installed:
 - Visual Studio Code (IDE)
 - MongoDB (Database)
+- Node.js 
 
 ### Installation
 1. Clone the repository:
