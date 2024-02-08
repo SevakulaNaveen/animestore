@@ -16,8 +16,8 @@ Before you begin, ensure you have the following tools installed:
 
 ### Installation
 1. Clone the repository:
-git clone https://github.com/SevakulaNaveen/animestore.git
-make sure you add the collections to your mongoDB databse
+- git clone https://github.com/SevakulaNaveen/animestore.git
+- make sure you add the collections to your mongoDB databse
 
 Navigate to the project directory:
 cd animestore
@@ -28,12 +28,13 @@ npm install
 
 use two terminals one for running React project and one for Server
 ### In the first terminal run
-npm run dev
+- npm run dev
+- which starts your react project
 
 ### In the second terminal to start the server run
-nodemon app.cjs
-which runs the server at http://localhost:3000/ this is where you apis calls are made 
-
+- nodemon app.cjs
+- which runs the server at http://localhost:3000/ this is where you apis calls are made
+ 
 # Technologies Used
 - MongoDB (Database)
 - Express.js (Backend)
