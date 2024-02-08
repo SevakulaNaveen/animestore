@@ -17,28 +17,22 @@ Before you begin, ensure you have the following tools installed:
 ### Installation
 1. Clone the repository:
 git clone https://github.com/SevakulaNaveen/animestore.git
+make sure you add the collections to your mongoDB databse
 
 Navigate to the project directory:
-cd AnimeHavenHub
+cd animestore
 Install dependencies:
 
-# Install server dependencies
+# Install dependencies
 npm install
 
-# Navigate to the client directory and install client dependencies
-cd client
-npm install
-Running the Application
-Start the MongoDB server.
-Run the server:
+use two terminals one for running React project and one for Server
+### In the first terminal run
+npm run dev
 
-# In the root directory
-npm start
-Run the client:
-
-# In the client directory
-npm start
-Visit http://localhost:3000 in your browser to access AnimeHavenHub.
+### In the second terminal to start the server run
+nodemon app.cjs
+which runs the server at http://localhost:3000/ this is where you apis calls are made 
 
 # Technologies Used
 - MongoDB (Database)
