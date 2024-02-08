@@ -15,7 +15,7 @@ Before you begin, ensure you have the following tools installed:
 
 ### Installation
 1. Clone the repository:
-git clone https://github.com/your-username/AnimeHavenHub.git
+git clone https://github.com/SevakulaNaveen/animestore.git
 
 Navigate to the project directory:
 cd AnimeHavenHub
