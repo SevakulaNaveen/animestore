@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "65bb58e70f9e576526d6b8e7"
+  },
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyvThf79lphOylX-rAG2hoEC21Lg3_GR7knw&usqp=CAU",
+  "title": "One Piece",
+  "description": "Join Monkey D. Luffy and his diverse crew as they sail the Grand Line, seeking the legendary treasure, One Piece",
+  "rating": 5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bb59470f9e576526d6b8e9"
+  },
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZab5652okqBKR4YuCH8hSosbF4Qre6Ggg3g&usqp=CAU",
+  "title": "Solo Leveling",
+  "description": "Sung Jin-Woo, a weak E-rank hunter,rises to become an overpowering S-rank Hunter in a game world",
+  "rating": 4.8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bb599d0f9e576526d6b8eb"
+  },
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9mRWEPns_jMNhXBbewhgK5nuS9R6mgo76uQ&usqp=CAU",
+  "title": "Naruto",
+  "description": "Naruto Uzumaki, a spirited ninja, strives for recognition, faces challenges, and matures into the hero of his village",
+  "rating": 4.5,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bb59dc0f9e576526d6b8ed"
+  },
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3SGw26ECi8VObJXhySicg30jQ818iCB68VQ&usqp=CAU",
+  "title": "Jujutsu Kaisen",
+  "description": "Yuji Itadori battles curses, joins a secret jujutsu society, and confronts dark forces threatening the world",
+  "rating": 4.4,
+  "__v": 0
+}]

@@ -1,0 +1,234 @@
+[{
+  "_id": {
+    "$oid": "65bb9a1d2bacf7ad77d3e07d"
+  },
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQscybZ7cucX_p__1PXKfRHAHThP3zcIWpb5w&usqp=CAU",
+  "title": "Solo Leveling",
+  "description": "Sung Jin-Woo,a weak E-rank hunter,rises to become an overpowering S-rank Hunter,in a game-like world",
+  "rating": 4.9,
+  "__v": 0,
+  "genre": [
+    "action"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bc77dbd98e2379a2e2c74f"
+  },
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyvThf79lphOylX-rAG2hoEC21Lg3_GR7knw&usqp=CAU",
+  "title": "One Piece",
+  "description": "Join Monkey D. Luffy and his diverse crew as they sail the Grand Line, seeking the legendary treasure, One Piece",
+  "rating": 5,
+  "__v": 0,
+  "genre": [
+    "adventure"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bc7837d98e2379a2e2c751"
+  },
+  "image": "https://i.ytimg.com/vi/WeWMfRunu1w/maxresdefault.jpg",
+  "title": "Jujutsu Kaisen",
+  "description": "Yuji Itadori battles curses,joins a secret jujutsu society,and confronts dark forces threatening the world",
+  "rating": 4.5,
+  "__v": 0,
+  "genre": [
+    "action"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bc787dd98e2379a2e2c753"
+  },
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD2rStfqFGTnzKoT0_NfwX2BVdZGTsp-iFtg&usqp=CAU",
+  "title": "Haikyu",
+  "description": "Hinata high school student strives to overcome his height disadvantage, aiming to become a volleyball champion",
+  "rating": 5,
+  "__v": 0,
+  "genre": [
+    "sports"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bc78b9d98e2379a2e2c755"
+  },
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA2Es4OPDSGxE27LkIWHgHnaGLD5c6hqmAuA&usqp=CAU",
+  "title": "Attack on Taitan",
+  "description": "In a world on the brink of collapse,battles unfold against giant humanoid creatures threatening humanity's survival.",
+  "rating": 4,
+  "__v": 0,
+  "genre": [
+    "action"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bc7920d98e2379a2e2c757"
+  },
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3gjo0z5NzVDDsflnlK5Tl6dqxsqx_fNjOrA&usqp=CAU",
+  "title": "Demon Slayer",
+  "description": "Driven by vengeance after his family is slaughtered, a young boy joins demon slayers in a perilous quest.",
+  "rating": 4.5,
+  "__v": 0,
+  "genre": [
+    "fantacy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bc796dd98e2379a2e2c759"
+  },
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0Zwu6g3kTktCWhGZg3tmKeV4sOWggoMcmkA&usqp=CAU",
+  "title": "Naruto",
+  "description": " A Ninja, Naruto, with dreams of becoming the strongest leader of his village, faces challenges and seeks recognition.",
+  "rating": 4.5,
+  "__v": 0,
+  "genre": [
+    "fantacy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bc799ed98e2379a2e2c75b"
+  },
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZY4lW9cilUQDY_4AXIsuZtvytmURGdxHadA&usqp=CAU",
+  "title": "Hunter X Hunter",
+  "description": "A young boy named Gon Freecss aspires to become a Hunter, a prestigious and elite adventurer with unique abilities.",
+  "rating": 3.5,
+  "__v": 0,
+  "genre": [
+    "adventure"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bc7a00d98e2379a2e2c75d"
+  },
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlvUSRvzzkl4moS2L-nwCUJG76qmr84WczQg&usqp=CAU",
+  "title": "Fullmetal Alchemis ",
+  "description": "Two brothers,Edward and Alphonse Elric embark on a journey to find the Philosopher's Stone",
+  "rating": 3.5,
+  "__v": 0,
+  "genre": [
+    "adventure"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bc7a48d98e2379a2e2c75f"
+  },
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDpgKaz4Mlo191u4Na_lScRGyw8JA7c1BJeg&usqp=CAU",
+  "title": "Death Note",
+  "description": "A school student discovers a magic notebook, unleashing lethal consequences as he grapples with newfound power.",
+  "rating": 4,
+  "__v": 0,
+  "genre": [
+    "fantacy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bc7a7cd98e2379a2e2c761"
+  },
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjQN8wp8O1d8GCFyaqaM8-wInO5N5cTEVFog&usqp=CAU",
+  "title": "One Punch Man",
+  "description": "A hero,Saitama,seeks purpose in a world where his overwhelming strength leaves him for a true challenge.",
+  "rating": 3.75,
+  "__v": 0,
+  "genre": [
+    "comedy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bc7ab4d98e2379a2e2c763"
+  },
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOYjhNrIKu6HbOYlkvsE36hHGw7VuHx-FJJg&usqp=CAU",
+  "title": "My Hero Academia",
+  "description": "Deku, a powerless boy, challenges destiny to become a superhero, inheriting some legendary powers",
+  "rating": 3.5,
+  "__v": 0,
+  "genre": [
+    "fantacy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bc7ae6d98e2379a2e2c765"
+  },
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLlwJ_Pak_M4cU4xaerVr1twVIEen_8XIYQ&usqp=CAU",
+  "title": "Steins Gate",
+  "description": "A group of friends stumbles upon a device enabling communication with the past, unraveling unforeseen mysteries",
+  "rating": 3.5,
+  "__v": 0,
+  "genre": [
+    "comedy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bc7b2ad98e2379a2e2c767"
+  },
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdRDMWRScS2PuJwbYFyNHtkxlDEnR5YkVTdw&usqp=CAU",
+  "title": "Cowboy Bebop",
+  "description": "Bounty hunters traverse the cosmos in a jazz,futuristic world,facing challenges that echo in the corridors of space.",
+  "rating": 3.5,
+  "__v": 0,
+  "genre": [
+    "comedy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bc7b58d98e2379a2e2c769"
+  },
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXbrrouarTcCArfQynXGn3ZnWBtCZSSat2Hg&usqp=CAU",
+  "title": "Spirited Away",
+  "description": "In Spirited Away, Chihiro courageously navigates to spirit world,unraveling its mysteries and finding her true strength.",
+  "rating": 4,
+  "__v": 0,
+  "genre": [
+    "mystery"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65bc7b8bd98e2379a2e2c76b"
+  },
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1bgfRzm8fF-2ERrXP5spDIZv8q8kozA8nog&usqp=CAU",
+  "title": "Code Geass",
+  "description": "Code Geass\" intricately weaves a tale of political intrigue and rebellion as Lelouch vi Britannia, gifted with powers",
+  "rating": 3.5,
+  "__v": 0,
+  "genre": [
+    "mystery"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65c38056ae8fb55df012096f"
+  },
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpSdNeNYBa6eSFnma1yKXmtXTEBK2sHcdDcQ&usqp=CAU",
+  "title": "Blue Lock",
+  "description": "Blue Lock brings together the best young footballers in Japan for a brutal training camp, to prepare for a national league.",
+  "rating": 3.5,
+  "genre": [
+    "sports"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c3820eae8fb55df012097d"
+  },
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa4YpjUxAtRTtSox5wxWAEQzPMhI-LlPaYng&usqp=CAU",
+  "title": "Durarara",
+  "description": "Durarara, Urban anime in Ikebukuro, Tokyo, intertwining lives amid gang conflicts and supernatural mysteries.",
+  "rating": 3.5,
+  "genre": [
+    "mystery"
+  ],
+  "__v": 0
+}]
